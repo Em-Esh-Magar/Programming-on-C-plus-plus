@@ -1,4 +1,4 @@
-
+// Using friend function to add two number;
 #include<iostream>
 using namespace std;
 
